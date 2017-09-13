@@ -1,5 +1,5 @@
 # scRNAseq-Malaria
-This folder contains all the scripts and data necessary to reproduce the analysis presented in our manuscript "Single-cell RNA-seq reveals a transcriptional signature of sexual commitment in malaria parasites", Nature, 2017 DOI:####
+This repository contains all the scripts and external data files necessary to reproduce the analysis presented in our manuscript "Single-cell RNA-seq reveals a transcriptional signature of sexual commitment in malaria parasites", Nature, 2017 DOI:####
 To perform the analysis, download all files to a local folder. To avoid changing paths in the scripts, keep all files in the same folder, without subfolders.
 A working version of R is required, including the packages loaded in the beginning of each R script. The analysis was performed using Rstudio and R version 3.4.0. 
 
